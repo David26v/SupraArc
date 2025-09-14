@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="flex items-center space-x-3 mb-6">
                 <Logo/>
                 <div>
-                  <span className="text-2xl font-bold">SupraArk</span>
+                  <span className="text-2xl font-bold">SupraArc</span>
                   <div className="text-xs text-blue-400">TECHNOLOGIES</div>
                 </div>
               </div>
@@ -60,7 +60,7 @@ const Footer = () => {
               <ul className="space-y-3 text-gray-400">
                 <li className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-blue-400" />
-                  <span>info@supraark.com</span>
+                  <span>info@supraarc.com</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <Clock className="w-5 h-5 text-blue-400" />
@@ -76,7 +76,7 @@ const Footer = () => {
           <div className="border-t border-gray-800 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-400 mb-4 md:mb-0">
-                © 2025 SupraArk Technologies. All rights reserved.
+                © 2025 SupraArc Technologies. All rights reserved.
               </p>
               <div className="flex space-x-6 text-gray-400">
                 <a href="#" className="hover:text-blue-400 transition-colors">Privacy Policy</a>

@@ -2,7 +2,7 @@ import { AppProviders } from '@/components/providers';
 import './globals.css';
 
 export const metadata = {
-  title: 'SupraArk',
+  title: 'SupraArc',
   description: 'Building Digital Solutions for Every Industry',
 };
 

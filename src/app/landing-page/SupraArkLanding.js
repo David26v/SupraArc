@@ -74,7 +74,7 @@ const SupraArkLanding = () => {
       name: "Sarah Chen",
       role: "CEO, TechFlow Inc.",
       content:
-        "SupraArk transformed our digital presence completely. Their custom e-commerce solution increased our conversion rate by 250%.",
+        "SupraArc transformed our digital presence completely. Their custom e-commerce solution increased our conversion rate by 250%.",
       image:
         "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop",
     },

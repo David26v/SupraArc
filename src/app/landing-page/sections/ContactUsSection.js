@@ -174,7 +174,7 @@ const ContactUsSection = () => {
                 <Star className="w-5 h-5 fill-current" />
               </div>
               <p className="text-blue-100 italic mb-4">
-                “SupraArk transformed our website into a conversion machine. Our leads increased by 217% in just 3 months.”
+                “SupraArc transformed our website into a conversion machine. Our leads increased by 217% in just 3 months.”
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full flex items-center justify-center text-white font-bold text-sm">
@@ -201,7 +201,7 @@ const ContactUsSection = () => {
           <p className="text-blue-200">
             Prefer to send a direct message?{" "}
             <a
-              href="mailto:hello@supraark.tech"
+              href="mailto:hello@supraarc.tech"
               className="text-white underline hover:text-blue-100 transition-colors"
             >
               Email us directly →

@@ -27,7 +27,7 @@ const NavBar = ({ scrolled }) => {
            <Logo/>
             <div>
               <span className="text-2xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-                SupraArk
+                SupraArc
               </span>
               <div className="text-xs text-blue-600 font-medium tracking-wider">
                 TECHNOLOGIES
