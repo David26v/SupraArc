@@ -2,8 +2,8 @@ import { AppProviders } from '@/components/providers';
 import './globals.css';
 
 export const metadata = {
-  title: 'Carpenter Mike',
-  description: 'Your home renovation specialist in Kelowna, BC, Canada',
+  title: 'SupraArk',
+  description: 'Building Digital Solutions for Every Industry',
 };
 
 export default function RootLayout({ children }) {
