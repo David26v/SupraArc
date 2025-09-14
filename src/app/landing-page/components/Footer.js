@@ -1,6 +1,7 @@
 import React from 'react'
 import { Mail, Code,  Clock,  Github, Linkedin, Twitter, Instagram, Building2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import Logo from './Logo';
 
 const Footer = () => {
   return (
@@ -9,9 +10,7 @@ const Footer = () => {
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
               <div className="flex items-center space-x-3 mb-6">
-                <div className="w-12 h-12 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center">
-                  <Code className="w-6 h-6 text-white" />
-                </div>
+                <Logo/>
                 <div>
                   <span className="text-2xl font-bold">SupraArk</span>
                   <div className="text-xs text-blue-400">TECHNOLOGIES</div>
