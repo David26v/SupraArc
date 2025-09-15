@@ -2,8 +2,17 @@ import { AppProviders } from '@/components/providers';
 import './globals.css';
 
 export const metadata = {
-  title: 'SupraArc',
-  description: 'Building Digital Solutions for Every Industry',
+  title: 'SupraArc Technologies',
+  description:
+    'SupraArc Technologies builds digital solutions, from web and mobile apps to publishing and e-commerce platforms, powering creators and businesses.',
+  openGraph: {
+    title: 'SupraArc Technologies',
+    description:
+      'SupraArc Technologies builds digital solutions, from web and mobile apps to publishing and e-commerce platforms, powering creators and businesses.',
+    url: 'https://supraarc.com',
+    siteName: 'SupraArc',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({ children }) {
