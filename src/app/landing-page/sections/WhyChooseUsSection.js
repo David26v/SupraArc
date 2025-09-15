@@ -12,11 +12,11 @@ const WhyChooseUsSection = () => {
         <div>
           <Badge className="bg-gradient-to-r from-blue-100 to-purple-100 text-blue-700 mb-6">
             <Target className="w-4 h-4 mr-2" />
-            Why SupraArk
+            Why SupraArc
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
             Why Businesses Choose
-            <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">SupraArk Technologies</span>
+            <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">SupraArc Technologies</span>
           </h2>
           <p className="text-xl text-gray-600 mb-8">
             We combine technical excellence with business acumen to deliver solutions that not only work flawlessly but also drive measurable business growth.

@@ -26,7 +26,7 @@ const HeroSection = () => {
                 <h1 className="text-5xl md:text-7xl font-bold text-gray-900 leading-tight">
                   Build Your
                   <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Digital Future</span>
-                  <span className="text-3xl md:text-4xl text-gray-600 font-normal mt-4 block">With SupraArk Technologies</span>
+                  <span className="text-3xl md:text-4xl text-gray-600 font-normal mt-4 block">With SupraArc Technologies</span>
                 </h1>
                 
                 <p className="text-xl md:text-2xl text-gray-600 leading-relaxed max-w-lg">
