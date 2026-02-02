@@ -13,6 +13,10 @@ export const metadata = {
     siteName: 'SupraArc',
     type: 'website',
   },
+  icons: {
+    icon: '/favicon.png',
+    apple: '/apple-touch-icon.png', 
+  },
 };
 
 export default function RootLayout({ children }) {
